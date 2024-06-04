@@ -1,0 +1,41 @@
+100/100
+
+tp2.1
+
+Escribir un programa en C que le solicite al usuario el ingreso de tres
+números por teclado que encuentre el mayor de los tres.
+
+tp2.2
+
+Escribir un programa en C que verifique si el valor ingresado por
+teclado es positivo, negativo o cero y lo informe por pantalla.
+
+
+tp2.3 
+
+Realizar un programa que determine la calificación de tres estudiantes:
+● Si la calificación es mayor al 90 debe indicar sobresaliente
+● si está entre 90 y 70 muy bueno
+● entre 50 y 70 bueno
+● menos de 50 Reprobado
+
+Para ello se deberán ingresar las 3 calificaciones por teclado e ir
+informado la calificación de cada uno por pantalla.
+
+
+tp2.4
+
+Escribir un programa en C que muestre el total de días que tiene un
+mes utilizando switch. Por ejemplo, si el usuario ingresa 3 como mes el
+programa responderá “Marzo tiene 31 días”
+
+
+
+Mes                                 Total de días
+
+Enero, Marzo, Mayo, Julio, Agosto,      31
+Octubre, Diciembre
+
+Febrero                                 28/29
+
+Abril, Junio, Septiembre, Noviembre     30

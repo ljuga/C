@@ -1,0 +1,40 @@
+Ejercicio 1:
+
+
+Realizar un programa que pida las notas de 20 alumnos por pantalla y muestre un
+menú de opciones: 1. Listar notas, 2.Calcular la promedio, 3.Calcular el menor, 4.Calcular el
+mayor.
+
+
+Ejercicio 2:.
+
+
+Igual que el ejercicio anterior pero en vez de 20 alumnos ahora el número de
+alumnos se le preguntará al usuario al iniciar el programa, este número no podrá superar los
+100 alumnos (controlar que el usuario introduzca un número menor que 100).
+
+
+Ejercicio 3:.
+
+
+Escribir un programa en C que cuente el total de elementos duplicados en un vector de 10
+elementos
+
+
+Ejercicio 4:.
+
+
+Escribir un programa en C que imprima solo los valores que no se repiten en un vector de
+10 elementos
+
+
+Ejercicio 5:.
+
+
+Escriba un programa que separe los elementos de un vector en pares e impares y los
+guarde en vectores separados
+
+
+Ejercicio 6:.
+Realizar un programa en C que encuentre el mayor elemento dentro de un vector y el
+segundo más grande.

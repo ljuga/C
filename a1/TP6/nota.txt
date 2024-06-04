@@ -1,0 +1,12 @@
+1. Desarrollar un programa que mediante una función
+determine cual es el mayor entre dos números, contemplar
+el caso que si son iguales de un mensaje de error.
+
+
+2. Desarrollar un programa que mediante funciones se llame a
+un determinado mes del año y escriba en pantalla cuantos
+días tiene dicho mes.
+
+
+3. Desarrollar un programa que mediante funciones se haga la
+suma de dos vectores de 10 elementos.

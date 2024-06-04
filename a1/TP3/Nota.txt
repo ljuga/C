@@ -1,0 +1,26 @@
+100/100
+
+1. 
+
+Ingresar por teclado una serie de números enteros. Determinar el
+promedio de los mismos. La cantidad de datos será el primer
+valor ingresado.
+
+
+2. 
+
+Determinar cuántas bolsas de azúcar pasan el test de pesaje. El
+peso de cada una de ellas se ingresa por teclado. El rango varía
+entre 998 y 1005 gramos. Si poseen menor peso se imprime en
+pantalla MENOR, y si es mayor que el rango establecido se
+imprime MAYOR. La cantidad de bolsas será el primer valor a
+ingresar.
+
+
+3. 
+
+Determinar de una serie de 45 notas entre 0 y 10 cuántas son
+mayores que 7, y cuantas son menores o iguales a 3. Se debe
+verificar que el valor ingresado este dentro del rango permitido,
+es decir si se introduce como nota 15 el programa deberá pedir
+que se ingrese nuevamente. Usar bucle Do While
